@@ -2,7 +2,7 @@
 * @Author: Charlie Gallentine
 * @Date:   2019-09-17 14:17:13
 * @Last Modified by:   Charlie Gallentine
-* @Last Modified time: 2019-10-06 20:03:26
+* @Last Modified time: 2019-10-21 19:04:04
 */
 
 * {
@@ -50,6 +50,16 @@ body {
 
 p {
 	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 0.01px;
+}
+
+.app-btn {
+	background-color: var(--purple);
+	color: white;
+	margin-top: 20px;
+	padding: 5px 8px;
+	padding-top: 8px;
 }
 
 .contact-btn, .contact-btn i {
